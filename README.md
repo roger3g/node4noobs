@@ -102,12 +102,16 @@ Quando existe o Event Loop?
   <img src="docs/image-7.png">
 </p>
 
-## HTTP
+## Docs
 
-* [Introdução](docs/1-Introdução.pdf)
-* [Conceitos](docs/2-Conceitos.pdf)
-* [URI](docs/3-URI.pdf)
-* [Messages](docs/4-Messages.pdf)
-* [Methods](docs/5-Methods.pdf)
-* [Headers](docs/6-Headers.pdf)
-* [Status-Code](docs/7-Status-Code.pdf)
+Aceesa o Materia de apoio [aqui](docs/)
+
+* [Module os](module-os/README.md)
+* [Module fs](module-fs/README.md)
+* [Module path](module-path/README.md)
+* [Module url](module-url/README.md)
+* [Module HTTP](module-http/README.md) (Em Desenvolvimento)
+* [Módulos no Nodejs](modules-on-node/README.md)
+* [Inputs no Nodejs](inputs-node/README.md)
+* [Nodejs Com EJS](inputs-node/README.md) (Em Desenvolvimento)
+* [NPM](npm-node/README.md)
